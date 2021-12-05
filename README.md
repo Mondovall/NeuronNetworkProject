@@ -10,6 +10,8 @@ each variable with the "_DN" at the end of their name are the variables to look 
 - regression_model_DN -> using multiple inputs from train set (70%)
 - test_regression_model_DN -> using multiple inputs from test set (15%)
 - validation_regression_model_DN -> using multiple inputs from validation set (15%)
+
+
 epochs = 250.
 
 
